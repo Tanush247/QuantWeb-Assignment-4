@@ -18,7 +18,7 @@ Please upload your `.ipynb`  and `.pdf` files here only. . Name them as follows:
 
 1st June, 2024 23:59
 
-##Imp Note
+## Imp Note
 
 
 Submit the code and strategy on your team's repo. Include your strategy and how you have used the risk management plan for your strategy. You need not copy the exact implementation of the risk management method, understand the market and shape the strategy according to it.
